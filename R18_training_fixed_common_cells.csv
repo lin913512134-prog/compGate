@@ -1,0 +1,13 @@
+validation_cohort,contrast,signature,CAF_frozen,CAF_level_cohort,CAF_level_training_fixed,interpretable_frozen,interpretable_level_cohort,interpretable_level_training_fixed,stalled_frozen,stalled_level_cohort,stalled_level_training_fixed,common_all_three,training_fixed_minus_cohort
+GSE19442,active TB vs latent TB,Anderson51,0.6560077084962519,0.7388684401932409,0.9686585495877865,True,True,True,True,True,True,True,0.22979010939454558
+GSE19442,active TB vs latent TB,Berry86,-2.731860810827794,0.9365905714083282,0.961685372446062,True,True,True,False,True,True,True,0.02509480103773376
+GSE19442,active TB vs latent TB,Jacobsen3,-0.15238130702749197,0.6834863246533048,0.7674446166051159,True,True,True,False,True,True,True,0.08395829195181104
+GSE19442,active TB vs latent TB,Kaforou27,-0.26410723349450826,0.7382807972501104,0.7726383895253774,True,True,True,False,True,True,True,0.034357592275267024
+GSE19442,active TB vs latent TB,RISK6,-5.127945930857478,0.5312122093151764,0.5688803035760941,True,True,True,False,False,False,True,0.03766809426091766
+GSE42834,active TB vs other diseases,Berry86,0.3310190123029131,0.5671414396529463,0.918546820293864,True,True,True,False,False,True,True,0.35140538064091775
+GSE42834,active TB vs other diseases,Maertzdorf15,0.12359893727325,0.3034724544310816,0.5043054976238333,True,True,True,False,False,False,True,0.20083304319275164
+GSE42834,active TB vs other diseases,RISK6,0.2927171966893445,0.33956194839585896,0.07784871765421086,True,True,True,False,False,False,True,-0.2617132307416481
+GSE42834,active TB vs other diseases,Sambarey10,0.09166282751245614,0.5967710097990679,0.4109216355136458,True,True,True,False,False,False,True,-0.18584937428542214
+GSE42834,active TB vs other diseases,Suliman4,-0.8134744488206258,0.4498800117234374,0.6116032052203797,True,True,True,False,False,True,True,0.1617231934969423
+GSE42834,active TB vs other diseases,Zak16,0.8217690819921932,0.3904943600145523,0.34890605476136916,True,True,True,True,False,False,True,-0.04158830525318313
+GSE42834,active TB vs other diseases,daCosta3,-1.020568918790826,0.37185142970519613,0.26094113844152256,True,True,True,False,False,False,True,-0.11091029126367358

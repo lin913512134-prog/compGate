@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Version 0.4.0 is a local release candidate until the authors publish it and assign a version-specific DOI."
+title: "compGate: composition attribution and joint-model diagnostics for blood transcriptomics"
+type: software
+version: 0.4.0
+authors:
+  - family-names: Lin
+    given-names: Huangwei
+  - family-names: Wang
+    given-names: Xiang
+  - family-names: Huang
+    given-names: Yurong
+  - family-names: Li
+    given-names: Huamei
+  - family-names: Liu
+    given-names: Yuanshui
+license: MIT
