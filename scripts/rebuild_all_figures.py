@@ -344,9 +344,9 @@ rho = pd.read_csv(SRC / "Figure5E_RHO_HKSJ_BH.csv")
 fig, ax = new_figure(5, 3, 2, 205)
 label(ax[0], "A", "Software and analysis chain")
 blank(ax[0])
-box(ax[0], (0.05, 0.62), 0.38, 0.20, "compGate scoring/reporting\n0.3.5 public; 0.3.6 deposit", BLUE, 7)
-box(ax[0], (0.57, 0.62), 0.38, 0.20, "Versioned scripts\njoint model + benchmark", DEEP, 7)
-box(ax[0], (0.30, 0.20), 0.40, 0.20, "Diagnostics + Source Data\n+ verification logs", ORANGE, 7)
+box(ax[0], (0.05, 0.62), 0.38, 0.20, "compGate 0.4.0\nPyPI: scoring + joint model", BLUE, 7)
+box(ax[0], (0.57, 0.62), 0.38, 0.20, "GitHub v0.4.0\nsource + benchmark", DEEP, 7)
+box(ax[0], (0.25, 0.20), 0.50, 0.20, "Zenodo archive\n10.5281/zenodo.23889776\nSource Data + logs", ORANGE, 7)
 ax[0].annotate("", xy=(0.48, 0.41), xytext=(0.26, 0.61), arrowprops=dict(arrowstyle="->", color=DARK))
 ax[0].annotate("", xy=(0.54, 0.41), xytext=(0.74, 0.61), arrowprops=dict(arrowstyle="->", color=DARK))
 label(ax[1], "B", "Automated tests")
@@ -385,7 +385,7 @@ ax[5].text(0.03, 0.76, "Verified scope", fontsize=9, fontweight="bold", color=DE
 for i, text in enumerate(["Local Windows / Python 3.12.10 execution",
                           "Minimal example only, not genome-scale cost",
                           "No independent-team or Linux claim",
-                          "Public unified joint-model release pending"]):
+                          "Public 0.4.0 release; independent checks open"]):
     ax[5].text(0.06, 0.58 - i * 0.15, "• " + text, fontsize=7.5)
 fig.subplots_adjust(hspace=0.62)
 save(fig, 5)
