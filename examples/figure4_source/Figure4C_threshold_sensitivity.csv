@@ -1,0 +1,5 @@
+threshold,n_common,frozen_stalls,level_stalls,level_minus_frozen_count,level_minus_frozen_fraction
+0.5,79,6,40,34,0.430379746835443
+0.6,79,5,31,26,0.3291139240506329
+0.7,79,5,19,14,0.1772151898734177
+0.8,79,2,13,11,0.1392405063291139

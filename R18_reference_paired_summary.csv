@@ -1,4 +1,0 @@
-reference,common_cells,frozen_stalls,level_stalls,signature_majority_frozen,signature_majority_level,n_signatures
-LM22-NNLS,79,5,31,0,6,28
-LM22-SVR,80,8,30,3,6,30
-REF1-NNLS,80,4,29,0,6,28

@@ -1,0 +1,4 @@
+method,r
+CIBERSORTx ν-SVR,0.8
+Local SVR,0.78
+Local NNLS,0.75

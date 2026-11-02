@@ -1,8 +1,0 @@
-cohort,n_case,n_control,donor_id_verified,resampling_unit
-GSE185263,348,44,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE65682,718,42,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE28750,10,20,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE95233,51,22,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE13904,99,18,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE157103,100,26,False,frozen sample/analysis unit; no verified cross-sample donor mapping
-GSE189400,129,92,False,frozen sample/analysis unit; no verified cross-sample donor mapping

@@ -1,3 +1,0 @@
-validation_cohort,contrast,common_cells,frozen_stalls,level_cohort_stalls,level_training_fixed_stalls,median_training_fixed_minus_cohort,mean_training_fixed_minus_cohort,signature_t95_CI_low,signature_t95_CI_high
-GSE19442,active TB vs latent TB,5,1,4,4,0.0376680942609176,0.082173777784055,-0.0241298459977307,0.1884774015658408
-GSE42834,active TB vs other diseases,7,1,0,2,-0.0415883052531831,0.0162714879695263,-0.1923098328805844,0.2248528088196372
