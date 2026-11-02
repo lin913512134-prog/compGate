@@ -1,9 +1,9 @@
-# compGate 0.4.0 — CMPB release candidate
+# compGate 0.4.0
 
-Portable candidate for **A joint-model framework and benchmark for composition attribution in blood transcriptomics**.
+Portable software for **A joint-model framework and benchmark for composition attribution in blood transcriptomics**.
 It combines the existing compGate scoring/reporting API with `compgate.joint_model`, the joint-model implementation used for the revised CMPB analyses.
 
-**Release boundary:** this directory is a locally verified candidate prepared on 2026-11-02. It is not represented as a public release until the corresponding author confirms version 0.4.0 and publishes the repository, PyPI release and Zenodo archive.
+**Release status:** version 0.4.0 was prepared for the CMPB source release on 2026-11-02. This repository provides the public source release. PyPI and Zenodo publication, a version-specific DOI, Linux execution and independent-team validation are separate checks and are not claimed by this source release.
 
 ## Included functionality
 

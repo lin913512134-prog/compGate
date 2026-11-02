@@ -1,13 +1,13 @@
 # Changelog
 
-## 0.4.0 — release candidate prepared 2026-11-02
+## 0.4.0 — 2026-11-02
 
 - Added `compgate.joint_model` using the exact pure-function implementation used for the revised CMPB analyses.
 - Added portable joint-model tests, deterministic quickstart and Figure 4 reconstruction.
 - Added frozen-data benchmark and paired-summary entry points.
 - Added locked reproduction dependencies, input/output schemas and independent-reproduction record form.
 - Preserved the compGate 0.3.6 scoring and attribution-report implementation.
-- Did not claim public release, a new DOI, Linux execution or independent-team validation.
+- Public source-repository release; PyPI, a new Zenodo DOI, Linux execution and independent-team validation are not claimed by this entry.
 
 ## 0.3.6
 

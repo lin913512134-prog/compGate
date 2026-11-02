@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Version 0.4.0 is a local release candidate until the authors publish it and assign a version-specific DOI."
+message: "If you use this software, please cite compGate version 0.4.0."
 title: "compGate: composition attribution and joint-model diagnostics for blood transcriptomics"
 type: software
 version: 0.4.0
@@ -15,3 +15,5 @@ authors:
   - family-names: Liu
     given-names: Yuanshui
 license: MIT
+repository-code: "https://github.com/lin913512134-prog/compGate"
+date-released: 2026-11-02
