@@ -380,8 +380,8 @@ ax[4].set_ylim(0, 5.2)
 ax[4].text(0, 4.25, "4", ha="center", fontweight="bold")
 ax[4].text(1, 0.25, "0", ha="center", fontweight="bold")
 ax[4].text(0.03, 0.90, "Minimum BH q = 0.127", transform=ax[4].transAxes, fontsize=7.5, color=DARK)
+label(ax[5], "F", "Verified scope")
 blank(ax[5])
-ax[5].text(0.03, 0.76, "Verified scope", fontsize=9, fontweight="bold", color=DEEP)
 for i, text in enumerate(["Local Windows / Python 3.12.10 execution",
                           "Minimal example only, not genome-scale cost",
                           "No independent-team or Linux claim",

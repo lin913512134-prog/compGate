@@ -55,7 +55,7 @@ expected_figure_hashes = {
     "Figure_2.png": "b547eb25e1d21970a87990c554d76a3aa760c4e9bf0e0311a4b67f6b81c41b39",
     "Figure_3.png": "d368fdbd2987bf6d7af8973c06215e5c81c052c970fc5de7e28b6c8cef51e2c5",
     "Figure_4.png": "b5088b840e4a96325eba5799d4138a278860fe5451cbcf3fb3e7b35657bfc2a6",
-    "Figure_5.png": "ba06dced1358409a74dee697600735a7b596465e3504f176c228a96e259ec2e2",
+    "Figure_5.png": "688b88be45250ec542d1fe5832c28a1c6038d65e236d339e5475661c721c3c19",
 }
 actual_figure_hashes = {}
 for name in expected_figure_hashes:
