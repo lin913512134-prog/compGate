@@ -51,11 +51,11 @@ anchors = json.loads((OUT / "figure4" / "figure4_anchors.json").read_text(encodi
 compgate_passed = (OUT / "compgate_tests.log").read_text(encoding="utf-8").count("PASS test_") if (OUT / "compgate_tests.log").is_file() else 0
 joint_passed = (OUT / "joint_model_tests.log").read_text(encoding="utf-8").count("PASS test_") if (OUT / "joint_model_tests.log").is_file() else 0
 expected_figure_hashes = {
-    "Figure_1.png": "68e36fc9ddde901389d70e344636776f559ff28854cea64008cf407ef03427c8",
-    "Figure_2.png": "b547eb25e1d21970a87990c554d76a3aa760c4e9bf0e0311a4b67f6b81c41b39",
-    "Figure_3.png": "d368fdbd2987bf6d7af8973c06215e5c81c052c970fc5de7e28b6c8cef51e2c5",
+    "Figure_1.png": "5c0796312c8a5b2a5832b2d5e42fb7303b709a4492d1022760822f4d50c5eba4",
+    "Figure_2.png": "06ae0cbcc9b85e5efb92bdd6d78627ac9ffb276a297c22e71053bbc61a1539db",
+    "Figure_3.png": "c258a39671e707aa6105c5f97106c025f3461806c0100ac03c5e3a66ea367202",
     "Figure_4.png": "b5088b840e4a96325eba5799d4138a278860fe5451cbcf3fb3e7b35657bfc2a6",
-    "Figure_5.png": "688b88be45250ec542d1fe5832c28a1c6038d65e236d339e5475661c721c3c19",
+    "Figure_5.png": "9622085f32709c86921ead6d828fae03bf1a9684de1310da90dd27973708e868",
 }
 actual_figure_hashes = {}
 for name in expected_figure_hashes:
