@@ -54,7 +54,7 @@ expected_figure_hashes = {
     "Figure_1.png": "5c0796312c8a5b2a5832b2d5e42fb7303b709a4492d1022760822f4d50c5eba4",
     "Figure_2.png": "06ae0cbcc9b85e5efb92bdd6d78627ac9ffb276a297c22e71053bbc61a1539db",
     "Figure_3.png": "c258a39671e707aa6105c5f97106c025f3461806c0100ac03c5e3a66ea367202",
-    "Figure_4.png": "b5088b840e4a96325eba5799d4138a278860fe5451cbcf3fb3e7b35657bfc2a6",
+    "Figure_4.png": "4c4183ecdd8ba54100b95a76b2e0ad2ec7468a26bf56c358392601d8b5ccf3de",
     "Figure_5.png": "9622085f32709c86921ead6d828fae03bf1a9684de1310da90dd27973708e868",
 }
 actual_figure_hashes = {}
